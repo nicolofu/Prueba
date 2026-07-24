@@ -1,7 +1,7 @@
-# Prueba
-Trabajo de Fin de Máster del Máster en Profesorado de Enseñanza Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas en la especialidad de Matemáticas. 
+# Materiales TFM Proyecto de Innovación Docente: Enseñanza y Aprendizaje del Aprendizaje Automático
 
-Este repositorio contiene el trabajo de Fin de Máster, así como archivos auxiliares para las tareas propuestas e imprimibles.
+Este repositorio contiene archivos auxiliares para las tareas propuestas e imprimibles de este Trabajo de Fin de Máster del Máster en Profesorado de Enseñanza Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas en la especialidad de Matemáticas. 
+
 
 
 | Tarea  | Materiales del repositorio  |
